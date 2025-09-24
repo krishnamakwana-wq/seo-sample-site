@@ -1,6 +1,7 @@
 User-agent: *
-Allow: /
-
+Allow: /public/
+Allow: /index.html
 Sitemap: https://krishnamakwana-wq.github.io/seo-sample-site/sitemap.xml
+
 
 
