@@ -2,4 +2,5 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://krishnamakwana-wq.github.io/seo-sample-site/sitemap.xml
+
